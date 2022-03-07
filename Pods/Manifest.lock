@@ -1,0 +1,38 @@
+PODS:
+  - Alamofire (4.9.1)
+  - AnimatableReload (0.1.0)
+  - FTIndicator (1.2.9):
+    - FTIndicator/FTNotificationIndicator (= 1.2.9)
+    - FTIndicator/FTProgressIndicator (= 1.2.9)
+    - FTIndicator/FTToastIndicator (= 1.2.9)
+  - FTIndicator/FTNotificationIndicator (1.2.9)
+  - FTIndicator/FTProgressIndicator (1.2.9)
+  - FTIndicator/FTToastIndicator (1.2.9)
+  - Kingfisher (4.10.1)
+  - SwiftyJSON (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - AnimatableReload
+  - FTIndicator
+  - Kingfisher
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AnimatableReload
+    - FTIndicator
+    - Kingfisher
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AnimatableReload: dcef76a16258b82bf845225012aa8f3b1aa7df6c
+  FTIndicator: f7f071fd159e5befa1d040a9ef2e3ab53fa9322c
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+
+PODFILE CHECKSUM: 7f1cadac360fd39cc4dccd9f981115f3f5f79e30
+
+COCOAPODS: 1.11.2
